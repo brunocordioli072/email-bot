@@ -2,6 +2,7 @@
 
 So, this is a project to fix one of my problems in one of a hackathons i participated.
 It is a automated email responder which recognizes emails on your inbox and automatic respond to them, in theory (hauhau :rofl:).
+It is _supposed_ to be using a back-end server to be saving the emails, analize them, and send requests to the bot api to send massages to client X. 
 
 It uses SMTP and IMAP to send messages and to get data from your email.
 
