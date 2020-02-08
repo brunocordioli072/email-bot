@@ -1,0 +1,28 @@
+{
+  "name": "engiee-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://brunocordioli072@bitbucket.org/brunocordioli072/engiee-bot.git"
+  },
+  "author": "brunocordioli072",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/brunocordioli072/engiee-bot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "gmail-imap": "0.0.2",
+    "imap": "^0.8.19",
+    "os": "^0.1.1",
+    "sendpulse-api": "^1.1.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}

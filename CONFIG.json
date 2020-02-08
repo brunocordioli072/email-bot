@@ -1,0 +1,9 @@
+{
+    "API_USER_ID" : "xxxxxxxxxxx",
+    "API_SECRET" : "xxxxxxx",
+    "TOKEN_STORAGE" : "xxxx",
+    "USER_EMAIL": "xxxx@xxx.xxx",
+    "USER_EMAIL_PASSWORD": "xxxxx",
+    "EMAIL_TO_BE_SENT": "xxxx@xxx.xxx",
+    "MESSAGE_TO_BE_SENT": "xxxxx"
+}
